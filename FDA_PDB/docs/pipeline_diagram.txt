@@ -1,0 +1,1 @@
+ChEMBL → CCD → UniProt → PDB → Fusion TSV
